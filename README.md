@@ -44,4 +44,15 @@
 
 ### ¿Cómo crees que tu solución podría mejorar procesos operativos o la toma de decisiones?
   
-  - La solución podría mejorar los procesos operativos al proporcionar simulaciones precisas y en tiempo real, lo que permitiria una mejor toma de decisiones. Ademas
+  - La solución podría mejorar los procesos operativos al proporcionar simulaciones precisas y en tiempo real, lo que permitiria una mejor toma de decisiones. Además, la integración de tecnologías como la inteligencia artificial podria automatizar la detección de obstáculos y la planificación de rutas, aumentando la eficiencia y reduciendo errores humanos.
+
+### Si tu proyecto no aplica directamente a negocio o planta, ¿qué otros entornos podrían beneficiarse?
+
+  - Otros entornos que podria beneficiarse es la educación, donde ell software podría utilizarse para enseñar conceptos de fisíca y matemáticas, y el sector militar, donde se prodria utilizar para entrenar a personal en tácticas y estrategias.
+
+
+## Mejoras en IT y OT (2f)
+
+### ¿Cómo puede tu software facilitar la integración entre entornos IT y OT?
+
+  - El software podría facilitar la integración entre entornos IT Y OT al proporcionar una plataforma unificada para la simulación y análisis de datos. Esto permitiria una mejor coordinación entr los sistemas de información y los sistemas opertivos, mejorando la eficiencia y reduciendo la redundancia de datos.
