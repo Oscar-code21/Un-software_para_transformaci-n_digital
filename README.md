@@ -71,3 +71,8 @@
 ### ¿Qué tecnologías habilitadoras digitales (THD) has utilizado o podrías integrar en tu proyecto?
 
   - El proyecto podría integrar tecnologías habilitadoras digitales como la inteligencia artificial y el aprendizaje automático para mejorar la precisión de las simulaciones y la detección de obstáculos. Además, el uso de sensores IoT podría proporcionar datos en tiempo real para ajustar las simulaciones y mejorar la toma de decisiones.
+
+
+### ¿Cómo mejoran estas tecnologías la funcionalidad o el alcance de tu software?
+
+  - Las tecnologías habilitadoras digitales mejorarían la funcionalidad del software al proporcionar simulaciones más precisas y en tiempo real. Esto tendría un impacto positivo en el entorno al permitir una mejor planificación y ejecución de operaciones, reduciendo costos y mejorando la eficiencia operativa.
