@@ -76,3 +76,8 @@
 ### ¿Cómo mejoran estas tecnologías la funcionalidad o el alcance de tu software?
 
   - Las tecnologías habilitadoras digitales mejorarían la funcionalidad del software al proporcionar simulaciones más precisas y en tiempo real. Esto tendría un impacto positivo en el entorno al permitir una mejor planificación y ejecución de operaciones, reduciendo costos y mejorando la eficiencia operativa.
+
+
+### Si no has utilizado THD, ¿cómo podrías implementarlas para enriquecer tu solución?
+
+  - Para implementar THD y enriquecer la solución, se podría integrar inteligencia artificial para la optimización de rutas y la detección de obstáculos, así como sensores IoT para proporcionar datos en tiempo real. Además, se podrían utilizar técnicas de aprendizaje automático para mejorar la precisión de las simulaciones y predecir posibles problemas antes de que ocurran.
