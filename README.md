@@ -29,5 +29,26 @@ Este proyecto combina un **simulador táctico** (tipo mapa 2D con obstáculos) y
   ```bash
   pip install pygame numpy matplotlib scipy
 
-  
+  ```
+
+  # ¿Como probarlo?
+
+  1. Descarga el archivo simulador_integrado.py y ábrelo
+ 
+  2. Ejecuta el código con:
+ 
+     ```bash
+     python simulador_integrado.py
+     ```
+  3. Se abrirá una ventana con un mapa táctico. Aquí puedes:
+ 
+    - Ver el punto de inicio (marcado en verde).
+    - Hacer clic en cualquier celda para seleccionar un objetivo.
+    - Ver una gráfica de la trayectoria del proyectil calculada hacia ese objetivo
+
+
+# Lo que te sale al ejecutarlo 
+   - Un mapa táctico en 2D con obstáculos (celdas negras).
+   - Al hacer clic en cualquier posición, se lanza un proyectil y se genera una gráfica mostrando su trayectoria.
+   - Cada disparo tiene una trayectoria única basada en la distancia y dirección al objetivo.
 
