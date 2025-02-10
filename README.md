@@ -33,14 +33,14 @@ Este proyecto combina un **simulador táctico** (tipo mapa 2D con obstáculos) y
 
   # ¿Como probarlo?
 
-  1. Descarga el archivo simulador_integrado.py y ábrelo
+  - Descarga el archivo simulador_integrado.py y ábrelo
  
-  2. Ejecuta el código con:
+  - Ejecuta el código con:
  
      ```bash
      python simulador_integrado.py
      ```
-  3. Se abrirá una ventana con un mapa táctico. Aquí puedes:
+  - Se abrirá una ventana con un mapa táctico. Aquí puedes:
  
     - Ver el punto de inicio (marcado en verde).
     - Hacer clic en cualquier celda para seleccionar un objetivo.
