@@ -17,3 +17,9 @@
 
 ### Si tu software utiliza almacenamiento en la nube, ¿cómo garantizas la seguridad y disponibilidad de los datos?
   - Mi proyecto, no utiliza almacenamiento en la nube. Sin embargo podria implementar un servicio del almacenamiento en la nube como Google Cloud Storage para almacenar los resultados de las simulaciones y los mapas generados. Esto te garantizara la seguridad y disponbibilidad de los datos mediante el uso de cifrado y copias de seguridad automaticas.
+
+### ¿Qué alternativas consideraste para almacenar datos y por qué elegiste tu solución actual? 
+  - Si hubiera utilizado, pdoria considerar alternativas como base de datos relacionales o base de datos NoSQL. Mi elección dependeria de la naturaleza de los datos y los requisitos de rendimiento y escabilidad.   La nube lo elegiria por la capacidad de escalado automatico y su facilidad de integración con otros servicios.
+
+### Si no usas la nube, ¿cómo podrías integrarla en futuras versiones?
+  - Podria utilizar servicios de almacenamientos en la nube como Google Coud Strorage como antes e dicho o AWS S3. Además, se podrían implementar APis para interectuar con estos servicios y asegurar la transferencia segura de datos.
