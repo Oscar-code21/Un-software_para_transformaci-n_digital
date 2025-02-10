@@ -56,3 +56,18 @@
 ### ¿Cómo puede tu software facilitar la integración entre entornos IT y OT?
 
   - El software podría facilitar la integración entre entornos IT Y OT al proporcionar una plataforma unificada para la simulación y análisis de datos. Esto permitiria una mejor coordinación entr los sistemas de información y los sistemas opertivos, mejorando la eficiencia y reduciendo la redundancia de datos.
+
+
+### ¿Qué procesos específicos podrían beneficiarse de tu solución en términos de automatización o eficiencia?
+
+  - Procesos específicos como la planificación de rutas y gestión de inventarios podrían beneficiarse de la solución al proporcionar simulaciones precisas y optimizadas. Esto permitiría una mejor asignación de recursos y una reducción de tiempos de inactividad.
+
+### Si no aplica a IT u OT, ¿cómo podrías adaptarlo para mejorar procesos tecnológicos concretos?
+
+  - Para adaptarlo a mejorar procesos tecnologicos concretos, se podrían integrar con sistemas de gestión de recursos empresariales (ERP) y sistemas de ejecución de manufactura (MES) para proporcionar datos en tiempo real y mejorar la toma de decisiones.
+
+## Tecnologías Habilitadoras Digitales (2g)
+
+### ¿Qué tecnologías habilitadoras digitales (THD) has utilizado o podrías integrar en tu proyecto?
+
+  - El proyecto podría integrar tecnologías habilitadoras digitales como la inteligencia artificial y el aprendizaje automático para mejorar la precisión de las simulaciones y la detección de obstáculos. Además, el uso de sensores IoT podría proporcionar datos en tiempo real para ajustar las simulaciones y mejorar la toma de decisiones.
